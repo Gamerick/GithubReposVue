@@ -1,0 +1,6 @@
+Create a simple frontend web application in VueJS to list out the public repositories on GitHub, including:
+- Filtering
+- Sorting
+- Pagination
+- Good UI and UX
+- Github REST api documentation can be found at https://developer.github.com/v3/repos/#list-all-public-repositories
